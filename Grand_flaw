@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:32:18.864Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-W3UhMV_1XD-u_q0hXNZ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T08:34:34.443Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9ykRer2Y6KoFX4YkBfir" version="20.0.1" type="github">
   <diagram id="ysQgiuo-YwDRtBIMOr-G" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,20 +46,38 @@
         <mxCell id="mdvER91vJCagU5ax14PX-19" value="JOB SEEKER/APPLICANT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="101" y="90" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdvER91vJCagU5ax14PX-20" target="mdvER91vJCagU5ax14PX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mdvER91vJCagU5ax14PX-20" value="Post Jobs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdvER91vJCagU5ax14PX-21" target="mdvER91vJCagU5ax14PX-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mdvER91vJCagU5ax14PX-21" value="Review Applicants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdvER91vJCagU5ax14PX-22" target="mdvER91vJCagU5ax14PX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mdvER91vJCagU5ax14PX-22" value="View Credentials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdvER91vJCagU5ax14PX-23" target="mdvER91vJCagU5ax14PX-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mdvER91vJCagU5ax14PX-23" value="Set Schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mdvER91vJCagU5ax14PX-24" target="mdvER91vJCagU5ax14PX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mdvER91vJCagU5ax14PX-24" value="Set for Onboarding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-25" value="Declared Applicants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
