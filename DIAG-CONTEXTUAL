@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T13:57:09.186Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="LXnAieudvmoRJhzNrZui" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T14:08:33.641Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WZ3mNeeipg6xI0ZX3CMA" version="20.0.1" type="github">
   <diagram id="fvykIWg56u-t0tT8gjVF" name="Page-1">
     <mxGraphModel dx="1240" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,6 +31,18 @@
             <Array as="points">
               <mxPoint x="230" y="480" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rND5tzWxdKJc-pyDC3G9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rND5tzWxdKJc-pyDC3G9-1" target="rND5tzWxdKJc-pyDC3G9-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rND5tzWxdKJc-pyDC3G9-20" value="PRINT REPORTS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rND5tzWxdKJc-pyDC3G9-19">
+          <mxGeometry x="-0.2169" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rND5tzWxdKJc-pyDC3G9-1" value="JOB FINDER SYSTEM - PESO AURORA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
