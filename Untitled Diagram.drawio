@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:10:22.043Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="eDXISM92d2wTrOlzs6fq" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T08:13:00.820Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UE4lTOJ4CrPZagcFnQwK" version="20.0.1" type="github">
   <diagram id="wbalTtKaecm9-t2Rqd4S" name="Page-1">
     <mxGraphModel dx="1157" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -149,13 +149,14 @@
             <mxPoint x="525.6666666666667" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kv7pUbfJyixGY9zZDfro-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-48">
+        <mxCell id="kv7pUbfJyixGY9zZDfro-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-48" target="kv7pUbfJyixGY9zZDfro-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="700" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="770" />
               <mxPoint x="470" y="900" />
               <mxPoint x="170" y="900" />
+              <mxPoint x="170" y="677" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -170,8 +171,14 @@
         <mxCell id="kv7pUbfJyixGY9zZDfro-50" value="Monitoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kv7pUbfJyixGY9zZDfro-58" value="Set Schedule for Interview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kv7pUbfJyixGY9zZDfro-58" value="Determined availability&amp;nbsp;&lt;br&gt;of schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="860" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.042;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-64" target="kv7pUbfJyixGY9zZDfro-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-64" value="Set Date&lt;br&gt;Schedule" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="930" width="82.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
