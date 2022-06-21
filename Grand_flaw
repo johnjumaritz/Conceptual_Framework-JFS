@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T11:10:45.086Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FuaRbegWQOpO80IuDy86" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T11:14:53.598Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5wsWmMaC1tUqCmctizgz" version="20.0.1" type="github">
   <diagram id="ysQgiuo-YwDRtBIMOr-G" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="mdvER91vJCagU5ax14PX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mdvER91vJCagU5ax14PX-22" target="mdvER91vJCagU5ax14PX-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mdvER91vJCagU5ax14PX-22" value="View Credentials" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mdvER91vJCagU5ax14PX-22" value="View Credentials/&lt;br&gt;Screen Applicants" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mdvER91vJCagU5ax14PX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mdvER91vJCagU5ax14PX-23" target="mdvER91vJCagU5ax14PX-24" edge="1">
@@ -91,8 +91,14 @@
         <mxCell id="avMHiDTJ1O85r1zNEemh-4" value="Add Recruiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avMHiDTJ1O85r1zNEemh-5" target="avMHiDTJ1O85r1zNEemh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avMHiDTJ1O85r1zNEemh-5" value="Validate Post&lt;br&gt;Approve/Reject Posted Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="avMHiDTJ1O85r1zNEemh-7" target="avMHiDTJ1O85r1zNEemh-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avMHiDTJ1O85r1zNEemh-7" value="Monitored Vacancies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
