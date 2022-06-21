@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:01:43.100Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nT5a10A5IKGN1GNniqSA" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T08:04:00.987Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5zRFbeIR85Cqo0VmTkod" version="20.0.1" type="github">
   <diagram id="wbalTtKaecm9-t2Rqd4S" name="Page-1">
     <mxGraphModel dx="1157" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-31" target="kv7pUbfJyixGY9zZDfro-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-31" value="Existing Application" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="770" width="105" height="110" as="geometry" />
         </mxCell>
@@ -90,8 +93,16 @@
         <mxCell id="kv7pUbfJyixGY9zZDfro-36" value="Notify&lt;br&gt;Job has already applied" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="600" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.357;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525.7" y="721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-41" value="Ready for&lt;br&gt;&amp;nbsp;Review" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="610" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-48" value="Approved&lt;br&gt;Reject&lt;br&gt;Application" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="720" width="105" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
