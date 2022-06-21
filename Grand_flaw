@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T11:20:03.461Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="M2zBsUdxa3hNfoGv9VtA" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T11:21:49.668Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VGO3tYelaqzeZAUeQTTj" version="20.0.1" type="github">
   <diagram id="ysQgiuo-YwDRtBIMOr-G" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,14 +109,26 @@
         <mxCell id="avMHiDTJ1O85r1zNEemh-11" value="PESO ADMIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avMHiDTJ1O85r1zNEemh-12" target="avMHiDTJ1O85r1zNEemh-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avMHiDTJ1O85r1zNEemh-12" value="MONITOR MEMBERSHIP REGISTRATION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avMHiDTJ1O85r1zNEemh-13" target="avMHiDTJ1O85r1zNEemh-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avMHiDTJ1O85r1zNEemh-13" value="MONITOR JOB POSTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avMHiDTJ1O85r1zNEemh-14" target="avMHiDTJ1O85r1zNEemh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="avMHiDTJ1O85r1zNEemh-14" value="VALIDATE COMPANY REGISTRATIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="avMHiDTJ1O85r1zNEemh-15" target="avMHiDTJ1O85r1zNEemh-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="avMHiDTJ1O85r1zNEemh-15" value="Generate Reports&lt;br&gt;Hired/Employed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
