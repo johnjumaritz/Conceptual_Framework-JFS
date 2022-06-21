@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T07:43:07.932Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DteJiFYSwkv51WZ-05AY" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T07:44:54.424Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5MV11b0HNx6RBNYX4zhS" version="20.0.1" type="github">
   <diagram id="wbalTtKaecm9-t2Rqd4S" name="Page-1">
     <mxGraphModel dx="1157" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kv7pUbfJyixGY9zZDfro-1" value="Posted Job / Job Vacancies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="kv7pUbfJyixGY9zZDfro-1" value="Apply Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-2" value="Job Seekers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
@@ -16,17 +16,19 @@
         <mxCell id="kv7pUbfJyixGY9zZDfro-4" value="Recruiter/Employers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kv7pUbfJyixGY9zZDfro-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-5" target="kv7pUbfJyixGY9zZDfro-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kv7pUbfJyixGY9zZDfro-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-5" target="kv7pUbfJyixGY9zZDfro-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-5" value="Job Seeker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="420" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kv7pUbfJyixGY9zZDfro-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="530" width="90" height="40" as="geometry" />
+        <mxCell id="kv7pUbfJyixGY9zZDfro-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-11" target="kv7pUbfJyixGY9zZDfro-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-11" value="Posted Jobs/&lt;br&gt;Job Vacancies" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="610" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
