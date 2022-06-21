@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T07:30:59.256Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FGEPqFq7AK_Fo7wfVuI6" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T07:34:38.677Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zCN8lJBw0hrlPskxW30J" version="20.0.1" type="github">
   <diagram id="wbalTtKaecm9-t2Rqd4S" name="Page-1">
     <mxGraphModel dx="1157" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kv7pUbfJyixGY9zZDfro-1" value="Job Post/ Job Vacancies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="kv7pUbfJyixGY9zZDfro-1" value="Posted Job / Job Vacancies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-2" value="Job Seekers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-3" value="Company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-4" value="Recruiter/Employers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
