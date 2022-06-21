@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T13:29:50.498Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="45ceEexRq4zQ-CuOXJKf" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T13:31:47.500Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UJdwZq9ZKf_auSxxzrwD" version="20.0.1" type="github">
   <diagram id="_Ntw_mkgPRTfpbc6yR-F" name="Page-1">
     <mxGraphModel dx="914" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,8 +34,41 @@
         <mxCell id="KssS3UjdzzI3nD07qZdV-6" value="REVIEW&amp;nbsp; JOB POST" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="245" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KssS3UjdzzI3nD07qZdV-9" target="KssS3UjdzzI3nD07qZdV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KssS3UjdzzI3nD07qZdV-9" value="POST JOB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KssS3UjdzzI3nD07qZdV-11" target="KssS3UjdzzI3nD07qZdV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KssS3UjdzzI3nD07qZdV-11" target="KssS3UjdzzI3nD07qZdV-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="380" />
+              <mxPoint x="800" y="260" />
+              <mxPoint x="810" y="260" />
+              <mxPoint x="810" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-11" value="REVIEW APPLICATION" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KssS3UjdzzI3nD07qZdV-15" target="KssS3UjdzzI3nD07qZdV-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-15" value="JOB SEEKER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KssS3UjdzzI3nD07qZdV-16" target="KssS3UjdzzI3nD07qZdV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KssS3UjdzzI3nD07qZdV-16" value="APPLY" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
