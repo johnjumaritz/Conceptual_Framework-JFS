@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T14:48:39.619Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nUmZU9LlvPNDuUCo0wtG" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T15:07:05.796Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-WIDhrboybXGMRINbjWA" version="20.0.1" type="github">
   <diagram id="fvykIWg56u-t0tT8gjVF" name="Page-1">
-    <mxGraphModel dx="599" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,33 @@
             <Array as="points">
               <mxPoint x="460" y="720" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rND5tzWxdKJc-pyDC3G9-26" value="RE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rND5tzWxdKJc-pyDC3G9-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="640" />
+              <mxPoint x="420" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rND5tzWxdKJc-pyDC3G9-27" value="REGISTRATION" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rND5tzWxdKJc-pyDC3G9-26">
+          <mxGeometry x="0.0939" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rND5tzWxdKJc-pyDC3G9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.261;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rND5tzWxdKJc-pyDC3G9-21" target="rND5tzWxdKJc-pyDC3G9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="610" />
+              <mxPoint x="380" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rND5tzWxdKJc-pyDC3G9-29" value="GENERATE REPORTS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rND5tzWxdKJc-pyDC3G9-28">
+          <mxGeometry x="0.1195" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rND5tzWxdKJc-pyDC3G9-21" value="COMPANY&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
