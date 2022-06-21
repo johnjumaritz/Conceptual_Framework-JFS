@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T13:38:00.055Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="siBVqsoLnVW-EiDwryYT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T13:38:35.530Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Zy60AA9-B_wglruP27A6" version="20.0.1" type="github">
   <diagram id="GD5NfSS2RjAqT5okYS8y" name="Page-1">
     <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,11 +20,16 @@
               <mxPoint x="380" y="280" />
               <mxPoint x="380" y="320" />
               <mxPoint x="474" y="320" />
+              <mxPoint x="474" y="340" />
+              <mxPoint x="524" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lNeZjjr3NazKs-4Nm-ju-2" value="Apply" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lNeZjjr3NazKs-4Nm-ju-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lNeZjjr3NazKs-4Nm-ju-3" target="lNeZjjr3NazKs-4Nm-ju-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lNeZjjr3NazKs-4Nm-ju-3" value="Posted Jobs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="345" y="180" width="80" height="80" as="geometry" />
@@ -36,7 +41,7 @@
           <mxGeometry x="290" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lNeZjjr3NazKs-4Nm-ju-8" value="Screening Applicant" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="490" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
