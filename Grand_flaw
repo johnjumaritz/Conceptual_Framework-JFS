@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T11:07:09.620Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Z6ivBsexMzzPtXCgGbBt" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T11:09:45.647Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rqxGyFxFf-GFw323rSWI" version="20.0.1" type="github">
   <diagram id="ysQgiuo-YwDRtBIMOr-G" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,15 @@
         </mxCell>
         <mxCell id="mdvER91vJCagU5ax14PX-37" value="RECRUITER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-1" value="COMPANY" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-4" value="Add Recruiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avMHiDTJ1O85r1zNEemh-5" value="Validate Post&lt;br&gt;Approve/Reject Posted Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
