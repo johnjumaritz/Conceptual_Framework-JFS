@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T08:26:38.315Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VNWJyN_923ks98naS4_B" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T08:27:30.418Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xnb8b9kAZc4BPf0Z2MXH" version="20.0.1" type="github">
   <diagram id="ysQgiuo-YwDRtBIMOr-G" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mdvER91vJCagU5ax14PX-1" value="Posted Jobs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="mdvER91vJCagU5ax14PX-1" value="Apply Jobs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mdvER91vJCagU5ax14PX-2" target="mdvER91vJCagU5ax14PX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdvER91vJCagU5ax14PX-2" value="Search Posted Jobs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
