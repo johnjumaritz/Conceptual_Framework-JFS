@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T07:50:01.982Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EcDlxLEb8YrzsYSFMjx1" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T07:54:37.527Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oQBHfCv80uXfNOYZFXoL" version="20.0.1" type="github">
   <diagram id="wbalTtKaecm9-t2Rqd4S" name="Page-1">
     <mxGraphModel dx="1157" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kv7pUbfJyixGY9zZDfro-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-1" target="kv7pUbfJyixGY9zZDfro-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-1" value="Apply Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,7 +53,22 @@
           <mxGeometry x="540" y="380" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kv7pUbfJyixGY9zZDfro-20" value="COMPANY&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="460" width="30" height="60" as="geometry" />
+          <mxGeometry x="510" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-24" target="kv7pUbfJyixGY9zZDfro-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-24" value="On going Job Application Process" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kv7pUbfJyixGY9zZDfro-28" target="kv7pUbfJyixGY9zZDfro-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-28" value="Search data&lt;br&gt;if already&lt;br&gt;applied" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kv7pUbfJyixGY9zZDfro-31" value="No overlapping&lt;br&gt;Application" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="770" width="105" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
