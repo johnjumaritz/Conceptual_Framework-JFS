@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T00:32:07.286Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HdJAuG8Waq9SNWUMHlkb" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T00:35:54.746Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uDuiHxODpiQpLR_3NeK5" version="20.0.2" type="github">
   <diagram id="KDQgsP5IQf4KC9tBPl0Q" name="Page-1">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,13 +102,24 @@
           <mxGeometry x="260" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S8El8NAEi-aljADzxCyz-36" target="S8El8NAEi-aljADzxCyz-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="360" />
+              <mxPoint x="210" y="375" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-36" value="Email" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="355" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="S8El8NAEi-aljADzxCyz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="S8El8NAEi-aljADzxCyz-39" target="S8El8NAEi-aljADzxCyz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-39" value="Password" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="105" y="400" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="S8El8NAEi-aljADzxCyz-42" value="Register" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
