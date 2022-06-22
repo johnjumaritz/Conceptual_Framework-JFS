@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T11:21:53.391Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pWGFhnNICESUB61gM0S6" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T11:22:52.245Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="G7YIweVeI3UBWWEb1yId" version="20.0.2" type="github">
   <diagram id="KDQgsP5IQf4KC9tBPl0Q" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -412,8 +412,11 @@
         <mxCell id="DkTwkcZCwwpDlX1hm3LG-2" value="Post Jobs" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="635" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DkTwkcZCwwpDlX1hm3LG-5" value="Recruiter/&lt;br&gt;Employeer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="780" width="85" height="40" as="geometry" />
+        <mxCell id="DkTwkcZCwwpDlX1hm3LG-5" value="Company/&lt;br&gt;Agency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="857.5" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DkTwkcZCwwpDlX1hm3LG-6" value="Display Jobs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
