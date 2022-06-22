@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T00:43:29.552Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8gYnAwfzYlq_97FLbwme" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T00:44:22.065Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="s_FAwPlQd3Yq5NpXO80K" version="20.0.2" type="github">
   <diagram id="KDQgsP5IQf4KC9tBPl0Q" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,19 +93,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-22" value="Job Requirements" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="270" width="90" height="65" as="geometry" />
+          <mxGeometry x="570" y="260" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.866;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="S8El8NAEi-aljADzxCyz-24" target="S8El8NAEi-aljADzxCyz-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S8El8NAEi-aljADzxCyz-24" value="No. Vacancies" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="340" width="80" height="50" as="geometry" />
+        <mxCell id="S8El8NAEi-aljADzxCyz-24" value="No. &lt;br&gt;Vacancies" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="575" y="320" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="S8El8NAEi-aljADzxCyz-26" target="S8El8NAEi-aljADzxCyz-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-26" value="Salary" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="575" y="400" width="80" height="50" as="geometry" />
+          <mxGeometry x="575" y="370" width="70" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="S8El8NAEi-aljADzxCyz-33" value="Login" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="360" width="70" height="30" as="geometry" />
