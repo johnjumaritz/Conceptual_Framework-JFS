@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T01:53:29.609Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="eCYiNlsZ3m8Q_YFXwPam" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T02:02:12.382Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VvTi_dhvsS0OW9i9Ar5b" version="20.0.2" type="github">
   <diagram id="J7wDh21cwAqP1igNYubF" name="Page-1">
-    <mxGraphModel dx="755" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="440" y="120" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="P-cps-c_bmjwB22jzBht-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/laptop-with-code-128.png" vertex="1" parent="1">
-          <mxGeometry x="168.76" y="471" width="128" height="128" as="geometry" />
+          <mxGeometry x="150" y="486" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="P-cps-c_bmjwB22jzBht-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="55.36" y="480" width="113.4" height="110" as="geometry" />
+          <mxGeometry x="46.6" y="360" width="113.4" height="110" as="geometry" />
         </mxCell>
         <mxCell id="P-cps-c_bmjwB22jzBht-7" value="Integrity Compromised" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="360" width="120" height="60" as="geometry" />
@@ -36,6 +36,18 @@
         </mxCell>
         <mxCell id="P-cps-c_bmjwB22jzBht-13" value="Hash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-cps-c_bmjwB22jzBht-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-cps-c_bmjwB22jzBht-17" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="182.76" y="380" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P-cps-c_bmjwB22jzBht-18" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P-cps-c_bmjwB22jzBht-19" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="85.6" y="650" width="44.4" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
