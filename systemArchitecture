@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T23:55:19.422Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="80pgM_C7VpzfZ2Dv8uxX" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T23:55:42.320Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZQdpB-p7jvxHjfiilGzc" version="20.0.3" type="github">
   <diagram id="J7wDh21cwAqP1igNYubF" name="Page-1">
     <mxGraphModel dx="1240" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,6 +96,15 @@
         </mxCell>
         <mxCell id="H_Bv4q29KuAtnJy640ul-2" value="Search Jobs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="870" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H_Bv4q29KuAtnJy640ul-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H_Bv4q29KuAtnJy640ul-8" target="H_Bv4q29KuAtnJy640ul-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="546" y="500" />
+              <mxPoint x="780" y="500" />
+              <mxPoint x="780" y="789" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="H_Bv4q29KuAtnJy640ul-8" value="Register Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="491" y="505" width="110" height="40" as="geometry" />
