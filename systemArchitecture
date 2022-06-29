@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T04:12:45.077Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Vc-13fNrrEFtHf_6F-vS" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T04:13:16.108Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ARcjlkziRr3wGHreQpuT" version="20.0.3" type="github">
   <diagram id="J7wDh21cwAqP1igNYubF" name="Page-1">
     <mxGraphModel dx="1447" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -295,6 +295,12 @@
         </mxCell>
         <mxCell id="b8nRKZzve1Hue6xkFgf4-54" value="Return Alert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b8nRKZzve1Hue6xkFgf4-56" value="Post Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="505" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="b8nRKZzve1Hue6xkFgf4-57" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="430" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
