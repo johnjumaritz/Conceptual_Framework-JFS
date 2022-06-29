@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T05:10:30.893Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AUjyyh4ov9sBC7qJHwQY" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T05:10:42.231Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iaD6w-4Gca7s8FevZ0WE" version="20.0.3" type="github">
   <diagram id="J7wDh21cwAqP1igNYubF" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
           <mxGeometry x="680" y="1220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b8nRKZzve1Hue6xkFgf4-102" value="Record Schedule" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_4.svg;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1276.5" width="45.27" height="33.5" as="geometry" />
+          <mxGeometry x="787.37" y="1288.25" width="45.27" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="b8nRKZzve1Hue6xkFgf4-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.088;entryY=0.761;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b8nRKZzve1Hue6xkFgf4-105" target="b8nRKZzve1Hue6xkFgf4-102">
           <mxGeometry relative="1" as="geometry">
@@ -479,9 +479,6 @@
         </mxCell>
         <mxCell id="b8nRKZzve1Hue6xkFgf4-105" value="Do Analyze if not Conflict" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1270" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b8nRKZzve1Hue6xkFgf4-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b8nRKZzve1Hue6xkFgf4-102" target="b8nRKZzve1Hue6xkFgf4-102">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
