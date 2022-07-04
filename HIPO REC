@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T13:10:37.278Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4i8meVIxH9WEXv0AUPR7" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T13:11:33.351Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uAmGaJ_Nxoh7_g4HhN_4" version="20.0.3" type="github">
   <diagram id="IZs7kvJK0lL-aorF2TmX" name="Page-1">
     <mxGraphModel dx="1085" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -206,8 +206,8 @@
         <mxCell id="vLWItEzES3k4J_MPe4f1-65" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLWItEzES3k4J_MPe4f1-51" target="vLWItEzES3k4J_MPe4f1-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="810" />
-              <mxPoint x="380" y="940" />
+              <mxPoint x="390" y="810" />
+              <mxPoint x="390" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -248,6 +248,15 @@
         </mxCell>
         <mxCell id="vLWItEzES3k4J_MPe4f1-63" value="Delete" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="450" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-68" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLWItEzES3k4J_MPe4f1-66" target="vLWItEzES3k4J_MPe4f1-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-66" value="Pass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-67" value="fail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
