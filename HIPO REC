@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T12:53:21.394Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="d2n0zbKV6wM5BQBn2cGe" type="github"><diagram id="IZs7kvJK0lL-aorF2TmX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-04T12:54:39.871Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pNTWn9wHUKwX71-u6Aho" version="20.0.3" type="github">
+  <diagram id="IZs7kvJK0lL-aorF2TmX" name="Page-1">
+    <mxGraphModel dx="868" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vLWItEzES3k4J_MPe4f1-1" value="User/Job Seeker&lt;br&gt;[1]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-2" value="PESO AURORA JOB FINDER SYSTEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-3" value="Recruiter/Employer&lt;br&gt;[2]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-4" value="Company/Agency&lt;br&gt;[3]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-5" value="Admin&lt;br&gt;[4]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
