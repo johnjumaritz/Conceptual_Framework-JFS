@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T22:36:31.301Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O56kDjBOuEY1dC_2AJsQ" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T23:38:53.290Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0nu_YLR-B-rSYkcJSwCd" version="20.0.4" type="github">
   <diagram id="HrZZCCweMmZWFvuPahY0" name="Page-1">
-    <mxGraphModel dx="1021" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="694" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpuRTWu-hdTJjCtwaE-o-1" target="cpuRTWu-hdTJjCtwaE-o-2">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cpuRTWu-hdTJjCtwaE-o-1" target="cpuRTWu-hdTJjCtwaE-o-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="230" />
@@ -12,18 +12,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-1" value="User/Job Seeker&lt;br&gt;[1]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-1" value="User/Job Seeker&lt;br&gt;[1]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-2" value="PESO AURORA JOB FINDER SYSTEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-2" value="PESO AURORA JOB FINDER SYSTEM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="140" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="cpuRTWu-hdTJjCtwaE-o-2">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="cpuRTWu-hdTJjCtwaE-o-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpuRTWu-hdTJjCtwaE-o-3" target="cpuRTWu-hdTJjCtwaE-o-2">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cpuRTWu-hdTJjCtwaE-o-3" target="cpuRTWu-hdTJjCtwaE-o-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548" y="250" />
@@ -31,16 +31,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-3" value="Recruiter/Employer&lt;br&gt;[2]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-3" value="Recruiter/Employer&lt;br&gt;[2]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="488" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpuRTWu-hdTJjCtwaE-o-4" target="cpuRTWu-hdTJjCtwaE-o-2">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cpuRTWu-hdTJjCtwaE-o-4" target="cpuRTWu-hdTJjCtwaE-o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-4" value="Company/Agency&lt;br&gt;[3]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3HzGUtaXEwFD-U4PseLj-7" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpuRTWu-hdTJjCtwaE-o-4" target="3HzGUtaXEwFD-U4PseLj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-4" value="Company/Agency&lt;br&gt;[3]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpuRTWu-hdTJjCtwaE-o-5" target="cpuRTWu-hdTJjCtwaE-o-2">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cpuRTWu-hdTJjCtwaE-o-5" target="cpuRTWu-hdTJjCtwaE-o-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="830" y="230" />
@@ -48,8 +51,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cpuRTWu-hdTJjCtwaE-o-5" value="Admin&lt;br&gt;[4]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cpuRTWu-hdTJjCtwaE-o-5" value="Admin&lt;br&gt;[4]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HzGUtaXEwFD-U4PseLj-2" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HzGUtaXEwFD-U4PseLj-3" value="Logout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HzGUtaXEwFD-U4PseLj-5" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3HzGUtaXEwFD-U4PseLj-8" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3HzGUtaXEwFD-U4PseLj-6" target="cpuRTWu-hdTJjCtwaE-o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3HzGUtaXEwFD-U4PseLj-6" value="Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
