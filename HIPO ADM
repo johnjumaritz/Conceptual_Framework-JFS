@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T23:20:26.620Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Z_fP7NCdOfRML6mFOVeu" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T23:20:54.727Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xDAjiPA4wuGY2kRRD6ri" version="20.0.4" type="github">
   <diagram id="L-mfqVqiJpe8gg7SYR0v" name="Page-1">
     <mxGraphModel dx="868" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aVMbC7nq-IYiiEwZupJi-36" value="Unflag" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="860" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="847" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVMbC7nq-IYiiEwZupJi-40" value="Verified" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVMbC7nq-IYiiEwZupJi-41" value="Activate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
