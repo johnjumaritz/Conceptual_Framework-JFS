@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T11:06:10.509Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dD_4MtKgN39mKZMS7M6w" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T11:06:59.313Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="StfDbWS5q5rbpjPvvQ7E" version="20.0.3" type="github">
   <diagram id="99pSbKrJd_Z15okU41Ax" name="Page-1">
     <mxGraphModel dx="1304" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,8 +145,20 @@
         <mxCell id="wlyD9ZycucqVopEdbl-1-50" value="My Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wlyD9ZycucqVopEdbl-1-55" value="My Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wlyD9ZycucqVopEdbl-1-59" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wlyD9ZycucqVopEdbl-1-55" target="wlyD9ZycucqVopEdbl-1-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlyD9ZycucqVopEdbl-1-55" value="Profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wlyD9ZycucqVopEdbl-1-61" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wlyD9ZycucqVopEdbl-1-58" target="wlyD9ZycucqVopEdbl-1-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wlyD9ZycucqVopEdbl-1-58" value="My Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wlyD9ZycucqVopEdbl-1-60" value="Logout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
