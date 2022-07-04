@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T13:06:58.179Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MZ8-59CsLz7OkRDbF4WR" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T13:07:16.245Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XEky8wCCVHZ8HBwZvurh" version="20.0.3" type="github">
   <diagram id="IZs7kvJK0lL-aorF2TmX" name="Page-1">
     <mxGraphModel dx="1085" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -188,6 +188,14 @@
         </mxCell>
         <mxCell id="vLWItEzES3k4J_MPe4f1-51" value="Fail Applicants" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="280" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-54" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLWItEzES3k4J_MPe4f1-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="689.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-53" value="No vacancies" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
