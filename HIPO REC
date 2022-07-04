@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T13:07:29.368Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Kp0xxFkxDsv6tlfPRGyc" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T13:08:13.127Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZOcsT4inzvrhJtdpZrRw" version="20.0.3" type="github">
   <diagram id="IZs7kvJK0lL-aorF2TmX" name="Page-1">
     <mxGraphModel dx="1085" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,6 +170,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-56" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLWItEzES3k4J_MPe4f1-47" target="vLWItEzES3k4J_MPe4f1-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vLWItEzES3k4J_MPe4f1-47" value="Pending Section" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -196,6 +199,17 @@
         </mxCell>
         <mxCell id="vLWItEzES3k4J_MPe4f1-53" value="No vacancies" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="252" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-55" value="qualify" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-58" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vLWItEzES3k4J_MPe4f1-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="709.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLWItEzES3k4J_MPe4f1-57" value="Decline" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
