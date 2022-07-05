@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T00:03:57.004Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="D8kjolfgOAkxCFlGqC_r" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T00:04:24.377Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OolhRpyNhxk7PLQOkrOv" version="20.0.4" type="github">
   <diagram id="HrZZCCweMmZWFvuPahY0" name="Page-1">
     <mxGraphModel dx="827" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -165,22 +165,22 @@
         <mxCell id="OiBDagwIbv0Pcpbw7Vba-19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OiBDagwIbv0Pcpbw7Vba-18" target="OiBDagwIbv0Pcpbw7Vba-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OiBDagwIbv0Pcpbw7Vba-18" value="Search Jobs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="OiBDagwIbv0Pcpbw7Vba-18" value="Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OiBDagwIbv0Pcpbw7Vba-21" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OiBDagwIbv0Pcpbw7Vba-20" target="OiBDagwIbv0Pcpbw7Vba-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OiBDagwIbv0Pcpbw7Vba-20" value="Add" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OiBDagwIbv0Pcpbw7Vba-23" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OiBDagwIbv0Pcpbw7Vba-22">
+        <mxCell id="OiBDagwIbv0Pcpbw7Vba-25" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OiBDagwIbv0Pcpbw7Vba-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="730" as="targetPoint" />
+            <mxPoint x="460" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OiBDagwIbv0Pcpbw7Vba-22" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
